@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...ethical hacking and flutter app dev't
 - 🌱 I’m currently learning ...notthing
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me minte0031@gmail.com
 
 <!---
 ethiosoft123/ethiosoft123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
