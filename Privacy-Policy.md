@@ -26,3 +26,8 @@ Changes
 Our Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page. We will not make any material retroactive changes to this Privacy Policy, including for changes involving the use of your Personal User Information, without your affirmative consent.
 
 Contact us If you have questions or concerns about our privacy practices, please contact us via email at minte0031@gmail.com.
+
+
+🌱 I’m currently learning ...notthing
+💞️ I’m looking to collaborate on ...
+📫 How to reach me minte0031@gmail.com
