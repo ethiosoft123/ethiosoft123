@@ -34,8 +34,7 @@ We reserve the right to update or change my Privacy Policy at any time and you s
 Contact Information
 For any questions or concerns regarding the privacy policy, please send me  an email to minte0031@gmail.com.
 
-- 👋 Hi, I’m @ethiosoft123
-- 👀 I’m interested in ...ethical hacking and flutter app dev't
+
 - 🌱 I’m currently learning ...notthing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me minte0031@gmail.com
